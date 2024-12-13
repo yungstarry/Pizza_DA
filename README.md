@@ -56,7 +56,7 @@ Insights were drawn from the analysis, leading to recommendations for marketing 
 | `revenue`       | Revenue generated from the sale     |
 
 ### Image
-![Data Structure](./Images\Structure.png)
+![Data Structure](./Images/Structure.png)
 
 ---
 
