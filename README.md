@@ -131,3 +131,5 @@ Two dashboards were created:
 
 ## Conclusion
 The analysis and visualizations provide actionable insights into customer preferences and sales trends. Implementing the recommendations can help optimize revenue, improve product performance, and enhance customer satisfaction.
+
+[Click here to view on Power Bi Service](https://app.powerbi.com/view?r=eyJrIjoiYzNlNDRmYTEtMWNhOC00NmQ5LThmMmMtNDkwZmQ4MGMyMjE0IiwidCI6IjhmNzg3ODg0LTA2MTctNDEzMi05MzFhLTQyYjljM2ViNjM3YiJ9)
